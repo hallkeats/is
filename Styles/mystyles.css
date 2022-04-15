@@ -1,0 +1,32 @@
+/*NAME/DATE: KEATS HALL/4/15/2022*/
+
+/*For job titles*/
+.italics{
+    font-style: italic;
+    font-weight: bold;
+}
+
+/*for experience bullets*/
+.small{
+    font-size: medium;
+}
+
+/*center images*/
+.imgcenter{
+display: flex;
+justify-content: center;
+}
+
+/*about me headers*/
+.aboutheader{
+    text-align: center;
+}
+
+/*background*/
+.background{
+    background-color: blanchedalmond;
+}
+
+.footercolor{
+    color: rgb(12, 94, 2);
+}

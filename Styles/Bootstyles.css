@@ -1,0 +1,40 @@
+/*NAME/DATE: KEATS HALL/4/15/2022*/
+.tableaubg{
+    background-color: grey;
+}
+
+.title{
+    text-align: center;
+}
+
+.caption{
+    font-weight: bold;
+    color: azure;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+}
+
+.graphsize{
+   /* height: 800px;
+    width: 500px;*/
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    background-color: aliceblue;
+    text-align: center;
+    
+}
